@@ -27,6 +27,3 @@
 - 🔗 **LinkedIn:** [Your LinkedIn Profile](#)
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhucVo1412&show_icons=true&theme=radical&hide_border=true" alt="PhucVo's GitHub Stats" />
-</p>
