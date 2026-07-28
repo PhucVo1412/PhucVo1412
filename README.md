@@ -22,8 +22,8 @@
 * **Tools:** Git, Docker, Azure DevOps, MongoDB, SQL
 
 ### 📫 Let's Connect
-- 🌐 **Portfolio:** [Visit my website](https://[link-vercel-cua-ban].vercel.app) 
+- 🌐 **Portfolio:** [Visit my website]([https://[link-vercel-cua-ban].vercel.app](https://my-portfolio-phucvo1412s-projects.vercel.app/)) 
 - ✉️ **Email:** hoangphuc141204@gmail.com
-- 🔗 **LinkedIn:** [Your LinkedIn Profile](#)
+- 🔗 **LinkedIn:** [My LinkedIn Profile](#https://www.linkedin.com/in/ho%C3%A0ng-ph%C3%BAc-b470a2356/)
 
 ---
