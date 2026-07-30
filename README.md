@@ -16,8 +16,8 @@
 
 
 ### 🛠️ Tech Stack
-* **Languages:** Python, C++, JavaScript / TypeScript
-* **Frontend:** React.js, Next.js, Tailwind CSS
+* **Languages:** Python, JavaScript / TypeScript
+* **Frontend:** React.js, Next.js
 * **Backend & AI:** FastAPI, Node.js, PyTorch, LangGraph, LangChain
 * **Tools:** Git, Docker, Azure DevOps, MongoDB, SQL
 
