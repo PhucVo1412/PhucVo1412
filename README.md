@@ -1,25 +1,18 @@
 <h1 align="center">Hi 👋, I'm PhucVo</h1>
-<h3 align="center">A passionate developer 👨‍💻 from Vietnam 
+<h3 align="center">A Software Engineer 👨‍💻 from Vietnam 
 
 </h3>
 
-<p align="center">
-  <em>Computer Science Graduated <b>Modern Web Development</b> with <b>Applied AI</b>.</em>
-</p>
 
 ---
 
 ### 👨‍🚀 About Me
 - 🎓 **Education:** Excellent graduated CS Student at Ho Chi Minh City University of Technology 
-- 💻 **Focus:** Fullstack Development & Autonomous AI Agents
 - 🚀 **Currently working at:** VTS.
 
 
 ### 🛠️ Tech Stack
-* **Languages:** Python, Java, JavaScript / TypeScript
-* **Frontend:** React.js, Next.js
-* **Backend:** Java Spring Boot
-* **Tools:** Git, Docker, Azure DevOps, MongoDB
+* Java Spring Boot, Python, Nextjs
 
 ### 📫 Let's Connect
 - 🌐 **Portfolio:** [Visit my website](https://my-portfolio-phucvo1412s-projects.vercel.app/) 
